@@ -1,2 +1,2 @@
-git clone https://github.com/tu-usuario/taller-python-investigacion.git
+git clone https://github.com/mateograjales733/taller-python-investigacion.git
 cd taller-python-investigacion
