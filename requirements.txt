@@ -1,1 +1,13 @@
-# Dependencias del proyecto
+
+Dependencias del proyecto
+Actualizado: 2025-11-11
+
+Testing
+pytest==7.4.3
+
+Documentación
+sphinx==7.2.6
+
+Formateo y linting
+autopep8==2.0.4
+pylint==3.0.3
